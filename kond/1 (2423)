@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>kond</folder>
+	<filename>1 (2423).jpg</filename>
+	<path>C:\Users\kondz\Desktop\windows_v1.6.0\human\kond\1 (2423).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>71</ymin>
+			<xmax>662</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>
