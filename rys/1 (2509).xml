@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rys</folder>
+	<filename>1 (2509).jpg</filename>
+	<path>/home/hyr/Desktop/human/rys/1 (2509).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>955</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>343</ymin>
+			<xmax>822</xmax>
+			<ymax>947</ymax>
+		</bndbox>
+	</object>
+</annotation>
